@@ -546,7 +546,7 @@
 				}
 			</convert>
     </widget>
-    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" backgroundColor="black" />
+    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" alphatest="blend" backgroundColor="black" />
     <widget name="arrowdown" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowdown2" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowup" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowup.png" zPosition="11" alphatest="blend" />
@@ -586,7 +586,7 @@
 			</convert>
     </widget>
     <widget name="config" position="150,420" size="710,245" zPosition="2" scrollbarMode="showOnDemand" transparent="1" />
-    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" backgroundColor="black" />
+    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" alphatest="blend" backgroundColor="black" />
     <widget name="arrowdown" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowdown2" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowup" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowup.png" zPosition="11" alphatest="blend" />
@@ -607,7 +607,7 @@
     </widget>
     <widget name="config" position="150,420" size="510,245" zPosition="2" scrollbarMode="showOnDemand" transparent="1" />
     <widget name="portpic" position="750,465" size="150,150" zPosition="10" transparent="1" alphatest="blend" />
-    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" backgroundColor="black" />
+    <widget name="rc" position="990,110" size="154,500" pixmaps="skin_default/rc.png,skin_default/rcold.png" zPosition="10" alphatest="blend" backgroundColor="black" />
     <widget name="arrowdown" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowdown2" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
     <widget name="arrowup" position="-100,-100" size=" 37, 70" pixmap="skin_default/arrowup.png" zPosition="11" alphatest="blend" />
